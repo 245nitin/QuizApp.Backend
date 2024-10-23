@@ -1,0 +1,25 @@
+{
+  "name": "quizapp.backend",
+  "version": "1.0.0",
+  "description": "Backen for Quiz App built with Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/245nitin/QuizApp.git"
+  },
+  "author": "Nitin Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/245nitin/QuizApp/issues"
+  },
+  "homepage": "https://github.com/245nitin/QuizApp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^10.0.0"
+  }
+}
